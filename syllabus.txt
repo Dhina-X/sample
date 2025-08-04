@@ -224,5 +224,4 @@ Amazon EKS - Overview
 Amazon EKS - Hands On
 AWS App Runner
 AWS App Runner - Hands On
-Containers on AWS Quiz
-
+Containers on AWS Quizz
