@@ -1,0 +1,228 @@
+SAA-C03 (AWS Certified Solutions Architect associate)
+
+IAM & AWS CLI
+
+IAM Introduction: Users, Groups, Policies
+IAM Users & Groups Hands On
+IAM Policies
+IAM Policies Hands On
+IAM MFA Overview
+IAM MFA Hands On
+AWS Access Keys, CLI and SDK
+AWS CLI Setup on Windows
+AWS CLI Hands On
+AWS CloudShell: Region Availability
+AWS CloudShell
+IAM Roles for AWS Services
+IAM Roles Hands On
+IAM Security Tools
+IAM Security Tools Hands On
+IAM Best Practices
+IAM Summary
+IAM & AWS CLI Quiz
+
+EC2 Fundamentals
+
+AWS Budget Setup
+EC2 Basics
+Create an EC2 Instance with EC2 User Data to have a Website Hands On
+EC2 Instance Types Basics
+Security Groups & Classic Ports Overview
+Security Groups Hands On
+SSH Overview
+How to SSH using Linux or Mac
+How to SSH using Windows
+How to SSH using Windows 10
+SSH Troubleshooting
+EC2 Instance Connect
+EC2 Instance Roles Demo
+EC2 Instance Purchasing Options
+Spot Instances & Spot Fleet
+EC2 Instances Launch Types Hands On
+EC2 Fundamentals Quiz
+
+EC2 - Solutions architect associate
+
+Private vs Public vs Elastic IP
+Private vs Public vs Elastic IP Hands On
+EC2 Placement Groups
+EC2 Placement Groups - Hands On
+Elastic Network Interfaces (ENI) - Overview
+Elastic Network Interfaces (ENI) - Hands On
+ENI - Extra Reading
+EC2 Hibernate
+EC2 Hibernate - Hands On
+EC2 SAA Level Quiz
+
+EC2 instance Storage
+
+EBS Overview
+EBS Hands On
+EBS Snapshots
+EBS Snapshots - Hands On
+AMI Overview
+AMI Hands On
+EC2 Instance Store
+EBS Volume Types
+EBS Multi-Attach
+EBS Encryption
+Amazon EFS
+Amazon EFS - Hands On
+EFS vs EBS
+EBS & EFS - Section Cleanup
+EC2 Data Management Quiz
+
+High availability and Scalability: ELB & ASG
+
+High Availability and Scalability
+Elastic Load Balancing (ELB) Overview
+Application Load Balancer (ALB)
+Application Load Balancer (ALB) - Hands On
+Network Load Balancer (NLB)
+Network Load Balancer (NLB) - Hands On
+Gateway Load Balancer (GWLB)
+Elastic Load Balancer - Sticky Sessions
+Elastic Load Balancer - Cross Zone Load Balancing
+Elastic Load Balancer - SSL Certificates
+Elastic Load Balancer - SSL Certificates - Hands On
+Elastic Load Balancer - Connection Draining
+Auto Scaling Groups (ASG) Overview
+Auto Scaling Groups Hands On
+Auto Scaling Groups - Scaling Policies
+Auto Scaling Groups - Scaling Policies Hands On
+High Availability & Scalability Quiz
+
+AWS Fundamentals: RDS + aurora + ElastiCache
+
+Amazon RDS Overview
+RDS Read Replicas vs Multi AZ
+Amazon RDS Hands On
+RDS Custom for Oracle and Microsoft SQL Server
+
+Amazon Aurora
+
+Amazon Aurora - Hands On
+Amazon Aurora - Advanced Concepts
+RDS & Aurora - Backup and Monitoring
+RDS Security
+RDS Proxy
+ElastiCache Overview
+ElastiCache Hands On
+ElastiCache for Solution Architects
+List of Ports to be familiar with
+RDS, Aurora, & ElastiCache Quiz
+
+Route 53
+
+What is a DNS ?
+Route 53 Overview
+Route 53 - Registering a domain
+Route 53 - Creating our first records
+Route 53 - EC2 Setup
+Route 53 - TTL
+Route 53 CNAME vs Alias
+Routing Policy - Simple
+Routing Policy - Weighted
+Routing Policy - Latency
+Route 53 - Health Checks
+Route 53 - Health Checks Hands On
+Routing Policy - Failover
+Routing Policy - Geolocation
+Routing Policy - Geoproximity
+Routing Policy - IP-based
+Routing Policy - Multi Value
+3rd Party Domains & Route 53
+Route 53 - Section Cleanup
+Route 53 Quiz
+
+Amazon S3 introduction
+
+S3 Overview
+S3 Hands On
+S3 Security: Bucket Policy
+S3 Security: Bucket Policy Hands On
+S3 Website Overview
+S3 Website Hands On
+S3 Versioning
+S3 Versioning - Hands On
+S3 Replication
+S3 Replication Notes
+S3 Replication - Hands On
+S3 Storage Classes Overview
+S3 Storage Classes Hands On
+Amazon S3 Quiz
+
+Advanced amazon S3
+
+S3 Lifecycle Rules (with S3 Analytics)
+S3 Lifecycle Rules - Hands On
+S3 Requester Pays
+S3 Event Notifications
+S3 Event Notifications - Hands On
+S3 Performance
+S3 Select & Glacier Select
+S3 Batch Operations
+Amazon S3 Advanced Quiz
+
+Amazon S3 Security
+
+S3 Encryption
+About DSSE-KMS
+S3 Encryption - Hands On
+S3 Default Encryption
+S3 CORS
+S3 CORS Hands On
+S3 MFA Delete
+S3 MFA Delete Hands On
+S3 Access Logs
+S3 Access Logs - Hands On
+S3 Pre-signed URLs
+S3 Pre-signed URLs - Hands On
+Glacier Vault Lock & S3 Object Lock
+S3 Access Points
+S3 Object Lambda
+Amazon S3 Security Quiz
+
+CloudFront & AWS Global accelerator
+
+CloudFront Overview
+CloudFront with S3 - Hands On
+CloudFront - ALB as an Origin
+CloudFront - Geo Restriction
+CloudFront - Price Classes
+CloudFront - Cache Invalidation
+AWS Global Accelerator - Overview
+AWS Global Accelerator - Hands On
+CloudFront & AWS Global Accelerator Quiz
+
+AWS Storage Extras
+
+AWS Snow Family Overview
+AWS Snow Family Hands On
+Architecture: Snowball into Glacier
+Amazon FSx
+Amazon FSx - Hands On
+Storage Gateway Overview
+Storage Gateway Hands On
+AWS Transfer Family
+DataSync - Overview
+All AWS Storage Options Compared
+AWS Storage Extras Quiz
+
+Containers on AWS: ECS, Fargate, ECR & EKS
+
+Docker Introduction
+Amazon ECS
+IMPORTANT: ECS UI CHANGES
+Creating ECS Cluster - Hands On
+Creating ECS Service - Hands On
+Amazon ECS - Auto Scaling
+Amazon ECS - Solutions Architectures
+Amazon ECS - Clean Up - Hands On
+Amazon ECR
+Amazon EKS - Overview
+Amazon EKS - Hands On
+AWS App Runner
+AWS App Runner - Hands On
+Containers on AWS Quiz
+
