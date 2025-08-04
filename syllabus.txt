@@ -213,9 +213,9 @@ Containers on AWS: ECS, Fargate, ECR & EKS
 
 Docker Introduction
 Amazon ECS
-IMPORTANT: ECS UI CHANGES
-Creating ECS Cluster - Hands On
-Creating ECS Service - Hands On
+ECS UI CHANGES
+ECS Cluster - Hands On
+ECS Service - Hands On
 Amazon ECS - Auto Scaling
 Amazon ECS - Solutions Architectures
 Amazon ECS - Clean Up - Hands On
